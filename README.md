@@ -1,3 +1,5 @@
+![A9qx's LGBTQA+ Avatar Triangle](https://cdn.discordapp.com/avatars/563087321704955914/a4d928e35e66479563e9db9b293b57d6.webp)
+
 ### Hi there 👋
 
 My name is **Andreas** and I program and develop back-end applications with some front-end _scattered_ in some places.
