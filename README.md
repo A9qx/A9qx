@@ -1,4 +1,4 @@
-![A9qx's LGBTQA+ Avatar Triangle](https://cdn.discordapp.com/avatars/563087321704955914/a4d928e35e66479563e9db9b293b57d6.webp)
+<img src="https://cdn.discordapp.com/avatars/563087321704955914/a4d928e35e66479563e9db9b293b57d6.webp" alt="A9qx's LGBTQA+ Avatar Triangle" width="110"/>
 
 ### Hi there 👋
 
