@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I know JS, Lua, React, Vue, Java, Python
 - 👯 I’m looking to collaborate on plugins and bots
 - 💬 Ask me about jobs regarding development or more
-- 📫 How to reach me: Discord | A9qx#7198
+- 📫 How to reach me: a9qx@proton.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Every Android app is a Java application, sadly
 
