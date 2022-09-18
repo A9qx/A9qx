@@ -20,7 +20,7 @@ window.onload = function() {
     'I\'m Andreas (A9qx)',
     'I design and code things on the web 👨‍💻, I also do photography 📷.',
     'I\'m currently accepting work.<br> You can contact me at 📧 - <a href="mailto:a9qx@proton.me">a9qx@proton.me</a>',
-    '🐦- <a target="_blank" href="https://twitter.com/A9qxAviation">twitter.com/A9qxAviation</a><br>🎥- <a target="_blank" href="https://youtube.com/A9qx">youtube.com/A9qx</a><br>👨‍💻- <a target="_blank" href="https://github.com/A9qx">github.com/A9qx</a>',
+    '🐦- <a target="_blank" href="https://twitter.com/A9qxAviation">twitter.com/A9qxAviation</a><br>🎥- <a target="_blank" href="https://www.youtube.com/channel/UCwaxreTV1y5rxevnkplFbuQ">youtube.com/A9qx</a><br>👨‍💻- <a target="_blank" href="https://github.com/A9qx">github.com/A9qx</a>',
     getCurrentTime(),
     '👀 A9qx.'
   ]
