@@ -1,5 +1,3 @@
-<img src="https://www.a9qx.xyz/aboutme.42e27e52.png" alt="A9qx's Debute Triangle" width="300"/>
-
 ### Hi there 👋
 
 My name is **Andreas** and I program and develop back-end applications with some front-end _scattered_ in some places.
